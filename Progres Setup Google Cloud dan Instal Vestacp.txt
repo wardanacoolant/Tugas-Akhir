@@ -1,0 +1,19 @@
+https://www.cloudbooklet.com/setting-up-google-cloud-dns-for-your-domain/
+
+https://vestacp.com/install/
+
+# Download installation script
+curl -O http://vestacp.com/pub/vst-install.sh
+# Run it
+bash vst-install.sh --nginx yes --apache yes --phpfpm no --named yes --remi yes --vsftpd yes --proftpd no --iptables yes --fail2ban yes --quota no --exim yes --dovecot yes --spamassassin yes --clamav yes --softaculous yes --mysql yes --postgresql no --hostname panel.kms-thk.com --email made.wardana44@gmail.com --password admin123
+
+https://35.224.224.69:8083
+Pass: ZDEVIhMFvh
+
+sudo nano /usr/local/vesta/conf/vesta.conf
+FILEMANAGER_KEY=’ILOVEREO’
+
+Username pass Fuseki Online
+admin
+GJuylocf7HZfBIh
+
