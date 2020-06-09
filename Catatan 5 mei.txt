@@ -1,0 +1,25 @@
+Pak Gede Santi
+
+1. Bapaknya nyari tukangg coding  project bumdes bali gak slesai karena kubu gaptek udah kerja jadinya bapana pusing
+2. Keinginan menciptakan startup academy/club utk wadah belajar adik2 yg satu visi dlm membangun startup utk bekal kerjaa
+3. Listing nama2 org yang mau 19 18 17 
+4. 
+
+
+Regenerasi Kepanitiaan di FMIPA
+
+
+https://www75.zippyshare.com/v/EvfiR0wG/file.html
+
+
+
+List revisi web 5 may
+a. Side bar all page: hapus ansambel, sesuaikan kelas dengan ontologi terbaru, ubah nama & tautan yg masih bekas silsilah & tari
+b. Browsing list: perbaiki tentang list (domain), ganti cover foto judul (yang simple aja), hapus card gambar (kalo sebuah class gak memungkinkan utk menampung image), bisa gak hasil browsing list digrup" in kayak browsing result, lakukan ucfirst() (menjadikan huruf pertama string huruf besar) terhadap property, ubah nama & tautan yg masih bekas silsilah & tari, isiin menu Questionnaire di header,
+c. Browsing result: ganti cover foto judul (yang simple aja), hapus card peta (kalo kebanyakan instances gak ada lokasinya), bisa gak hasil browsing result digrup" in kayak browsing resultnya rio, lakukan ucfirst() (menjadikan huruf pertama string huruf besar) terhadap property, isiin menu Questionnaire di header, ubah nama & tautan yg masih bekas silsilah & tari
+d. Searching: Hilangin dropdown ansambel, pendekin dropdown jadi col 6 dalam 2 row, hilangin dropdown output dan kata "Tidak ada output yang dipilih!", sesuaikan query utk hanya menerima inputan, buatin case error ketika tidak ada satupun input yang dipilih, isiin menu Questionnaire di header
+
+Perbaiki backend
+
+Perba
+iki frontend
