@@ -1,0 +1,26 @@
+
+Antoniou, G., and Van Harmelen, F. 2008. A Semantic Web Primer. MA.
+Arsana, I.N.C., Simatupang, G.R.L.L., Soedarsono, R.M. dan Dibia, I.W. 2014. “Kosmologis Tetabuhan dalam Upacara Ngaben”. Dalam Resital: Jurnal Seni Pertunjukan, 15(2):107–125.
+Bassil, Youssef. 2012. A Simulation Model for the Waterfall Software Development Life Cycle. ISSN:2049-3444, Vol.2, No.5. Beirut, Lebanon.
+Berners-Lee, T., Hendler, J., Lassila, O., et al.  “The Semantic Web”. Scientific American, 284(5):28–37, 2001.
+Cameron, F., Kenderdine, S., eds. 2007. Theorizing Digital Cultural Heritage: A Critical Discourse. MIT Press.
+Chandrasekaran, B., Josephson, J. R., dan Benjamins, V. R. 1999. “What are Ontologies, and Why Do We Need Them?”. IEEE Intelligent systems, (1):20-26.
+Davis, F. D. 1989. “Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology”. In MIS Quarterly, pp. 319-340.
+Davies, J., Studer, R., and Warren, P. 2006. Semantic Web Technologies: Trends and Research in Ontology-Based Systems. John Wiley & Sons.
+DuCharme, B. 2013. Learning SPARQL. O'Reilly Media.
+Fernández-López, M., Gómez-Pérez, A., and Juristo, N. 1997. “Methontology: From Ontological Art Towards Ontological Engineering”. In AAAI Technical Report, SS-97(06), pp.33-40.
+Hair, J. F., Anderson, R. E., Tatham, R. L., & Black, W. C. 1998. Multivariate Data Analysis. 5th International ed. Prentice-Hall International, Upper Saddle River.
+Kendal, Kenneth E. & Kendal, Julie E. 2006. System Analysis and Design-8th Edition. New Jersey: Prentice Hall.
+Kolozali, S., Barthet, M., Fazekas, G., and Sandler, M.B. 2011. “Knowledge Representation Issues in Musical Instrument Ontology Design”. In ISMIR, pages 465–470.
+Nasir, S.A.M., Noor, N.L.M. 2010. “Integrating Ontology-Based Approach in Knowledge Management System (KMS): Construction of Batik Heritage Ontology”. In International Conference on Science and Social Research (CSSR 2010), Kuala Lumpur.
+Nurkhamid, M. 2009. Aplikasi Bibliografi Perpustakaan Berbasis Teknologi Web Semantik. Tesis. Universitas Gadjah Mada: Yogyakarta.
+Pramartha, C. R. A. 2018. “Assembly the Semantic Cultural Heritage Knowledge”. Jurnal Ilmu Komputer, vol. 11, no. 2, pp. 83-95.
+Pramartha, C. R. A., Davis, J. G., dan Kuan, K. K. Y. 2017. “Digital Preservation of Cultural Heritage: An Ontology-Based Approach”. In The 28th Australasian Conference on Information Systems, Hobart, Australia, pp. 1-12.
+Pramartha, C. R. A., Davis, J. G., dan Kuan, K. K. Y. 2018. “A Semantically-Enriched Digital Portal for the Digital Preservation of Cultural Heritage with Community Participation," Digital Heritage. Progress in Cultural Heritage: Documentation, Preservation, and Protection: 7th International Conference, EuroMed 2018, Nicosia, Cyprus, October 29 – November 3, 2018, Proceedings: Springer International Publishing.
+Pressman, R.S. 2010. Software Engineering: A Practitioner’s Approach. McGraw-Hill Higher Education.
+Sanabila, H.R. dan Manurung, R. 2019. “Towards Automatic Wayang Ontology Construction using Relation Extraction from Free Text”. In Proceedings of the 8th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH), pp.128-136.
+Spiller, H. 2004. Gamelan: The Traditional Sounds of Indonesia. 1st ed. Santa Barbara: ABC-CLIO.
+Sunarto, B. P.  Ontology of Sangeet and Gamelan Music. 2014.
+Tenzer, M. 2000. Gamelan Gong Kebyar: The Art of Twentieth-Century Balinese Music. University of Chicago Press.
+Zhou, L. 2010. “An Approach of Semantic Web Service Discovery”, In 2010 International Conference on Communications and Mobile Computing (Vol. 1, pp. 537-540). IEEE.
+
