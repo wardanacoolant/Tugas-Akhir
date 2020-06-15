@@ -1,0 +1,7 @@
+Selanjutnya adalah mengenai hasil evaluasi dari persepsi kegunaan. 
+P1 sampai P6 merupakan pertanyaan 1 sampai 6 terkait persepsi kegunaan yang diadaptasi dari Technologi Acceptance Model oleh Davis.
+Dari kuesioner evaluasi yang diberikan, diperoleh masukan berupa skor yang kemudian diolah dan didapatkan hasil seperti pada tabel.
+Pertama, mean atau skor rata-rata dari keseluruhan pertanyaan adalah 6.125 atau dibulatkan menjadi 6, yang dalam skala Likert yang saya gunakan berarti Setuju. Artinya rata-rata peserta setuju bahwa sistem yang dibangun relatif mudah digunakan.
+Kedua, median atau skor tengah dari keseluruhan pertanyaan adalah 6, yang dalam skala Likert berarti Setuju. Artinya nilai tengah dari skor yang diberikan adalah Setuju.
+Ketiga, minimum atau skor terkecil dari keseluruhan pertanyaan adalah 4, yang dalam skala Likert berarti Netral. Artinya skor terendah yang pernah diberikan peserta adalah netral.
+Terakhir, maksimum atau skor terbesar dari keseluruhan pertanyaan adalah 7, yang dalam skala Likert berarti Sangat setuju. Artinya skor tertinggi yang pernah diberikan peserta adalah sangat setuju.
