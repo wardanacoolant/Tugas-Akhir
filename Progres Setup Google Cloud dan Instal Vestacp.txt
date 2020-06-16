@@ -11,9 +11,10 @@ https://35.224.224.69:8083
 Pass: ZDEVIhMFvh
 
 sudo nano /usr/local/vesta/conf/vesta.conf
-FILEMANAGER_KEY=’ILOVEREO’
+FILEMANAGER_KEY=ï¿½ILOVEREOï¿½
 
 Username pass Fuseki Online
+http://35.224.224.69:3030/
 admin
 GJuylocf7HZfBIh
 
