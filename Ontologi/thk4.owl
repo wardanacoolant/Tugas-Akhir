@@ -421,6 +421,11 @@
                 <owl:inverseOf rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#isUsing"/>
             </rdf:Description>
         </owl:equivalentProperty>
+        <owl:equivalentProperty>
+            <rdf:Description>
+                <owl:inverseOf rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#isUsing"/>
+            </rdf:Description>
+        </owl:equivalentProperty>
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <owl:inverseOf rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#isUsing"/>
     </owl:ObjectProperty>
@@ -459,6 +464,16 @@
         <owl:equivalentProperty>
             <rdf:Description>
                 <owl:inverseOf rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#digunakanUntuk"/>
+            </rdf:Description>
+        </owl:equivalentProperty>
+        <owl:equivalentProperty>
+            <rdf:Description>
+                <owl:inverseOf rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#digunakanUntuk"/>
+                <owl:equivalentProperty>
+                    <rdf:Description>
+                        <owl:inverseOf rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#isSoundFor"/>
+                    </rdf:Description>
+                </owl:equivalentProperty>
             </rdf:Description>
         </owl:equivalentProperty>
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
@@ -820,12 +835,12 @@ Inverse of P3_isUsedFor2</rdfs:comment>
 
     <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
 
-    <owl:ObjectProperty rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
         <owl:inverseOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ReflexiveProperty"/>
-    </owl:ObjectProperty>
+    </rdf:Description>
     
 
 
@@ -3294,6 +3309,7 @@ Inverse of P3_isUsedFor2</rdfs:comment>
     <!-- http://dpch.oss.web.id/Bali/TriHitaKarana.owl#GamelanAnyar -->
 
     <owl:NamedIndividual rdf:about="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#GamelanAnyar">
+        <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#BaleKulkul"/>
         <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#Gamelan"/>
         <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#Golongan"/>
         <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#THK_Entity"/>
@@ -3671,6 +3687,7 @@ Gender Wayang, adalah seperangkat gemelan (barungan) yang di pakai untuk mengiri
     <!-- http://dpch.oss.web.id/Bali/TriHitaKarana.owl#GamelanMadya -->
 
     <owl:NamedIndividual rdf:about="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#GamelanMadya">
+        <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#BaleKulkul"/>
         <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#Gamelan"/>
         <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#Golongan"/>
         <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#THK_Entity"/>
@@ -3889,6 +3906,7 @@ Gender Wayang, adalah seperangkat gemelan (barungan) yang di pakai untuk mengiri
     <!-- http://dpch.oss.web.id/Bali/TriHitaKarana.owl#GamelanTua -->
 
     <owl:NamedIndividual rdf:about="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#GamelanTua">
+        <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#BaleKulkul"/>
         <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#Gamelan"/>
         <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#Golongan"/>
         <rdf:type rdf:resource="http://dpch.oss.web.id/Bali/TriHitaKarana.owl#THK_Entity"/>
