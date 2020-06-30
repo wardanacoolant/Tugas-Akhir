@@ -1,0 +1,25 @@
+To	: kta@cs.unud.ac.id
+Subject	: TA_2020_1608561029_I MADE WARDANA
+
+Isi email 	:
+
+Nama		: I Made Wardana
+NIM		: 1608561029
+Judul TA		: Implementasi Ontologi Semantik dalam Rancang Bangun Sistem Manajemen Pengetahuan Gamelan Bali Berbasis Web
+P1		: Cokorda Rai Adi Pramartha, S.T., M.M., Ph.D.
+P2		: Ida Bagus Gede Dwidasmara, S.Kom., M.Cs.
+Ketua Penguji	: I Made Widiartha, S.Si., M.Kom.
+Sekretaris Penguji	: Ida Bagus Made Mahendra, S.Kom., M.Kom.
+Anggota Penguji	: Luh Arida Ayu Rahning Putri, S.Kom., M.Cs.
+
+Berikut melampirkan file-filenya, yaitu :
+1. File Laporan TA (yang sudah direvisi)
+2. File Artikel pada Jurnal Ilmu Komputer atau LOA
+3. Lembar Pengesahan TA
+4. Surat Bebas LAB dan Perpustakaan
+5. SK Pembimbing TA
+6. SK Penguji Ujian TA
+7. Berita Acara Ujian TA
+8. Lembar Revisi TA (yang sudah ditandatangani)
+
+Terima kasih.
