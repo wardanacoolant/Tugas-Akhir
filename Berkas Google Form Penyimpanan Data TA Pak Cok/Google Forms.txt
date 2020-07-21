@@ -1,0 +1,11 @@
+Tugas Akhir Mahasiswa Informatika
+Penyimpanan file Tugas Akhir Mahasiswa Informatika - UNUD
+The name and photo associated with your Google account will be recorded when you upload files and submit this form. Not made.wardana44@gmail.com? Switch account
+* Required
+Nama Lengkap *
+NIM *
+Alamat Email *
+Mobile Phone Number *
+File Laporan Tugas Akhir *
+File Source Code *
+Supporting file (eg. DB, Ontology, etc)
